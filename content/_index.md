@@ -29,6 +29,9 @@ front_boxes:
   - heading: Register
     icon: fa fa-user-plus
     url: 'https://google.com'
+  - heading: Photo
+    icon: fa fa-camera
+    url: '#'
 front_more_img: img/parish-hall.jpg
 front_more_heading: PARISH HALL RENTAL
 front_more_text: >-
