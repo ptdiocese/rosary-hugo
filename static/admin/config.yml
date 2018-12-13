@@ -50,7 +50,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Front Last Text Lead, name: front_last_text_lead, widget: string}
           - {label: Front Last Text, name: front_last_text, widget: string}
           - {label: Front Last Button Text, name: front_last_button_text, widget: string}
-          - {label: Front Last Button Link, name: front_last_button_url, widget: string}
+          - {label: Front Last Button Link, name: front_last_button_url, widget: string, required: false}
       - file: "content/contact.md"
         label: "Contact Us"
         name: "contact"
