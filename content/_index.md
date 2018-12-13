@@ -30,7 +30,7 @@ front_boxes:
     url: >-
       https://www.eservicepayments.com/cgi-bin/Vanco_ver3.vps?appver3=Fi1giPL8kwX_Oe1AO50jRpD4Ri1ipMz8SjtO-fInVtuhjXsUKRLlmI4vCU4-rZZZ2EvVVAEjqawDomKT1pbouYCLiHsYNviTLNfVAvw7pMg=&ver=3
   - heading: Register
-    icon: fa fa-user-plus
+    icon: fas fa-user-plus
     icon_class: bg-tertiary
     url: 'https://google.com'
 front_more_img: img/parish-hall.jpg
