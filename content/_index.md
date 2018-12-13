@@ -43,6 +43,6 @@ front_last_text: >-
   Our Lady Queen of Peace is a strong community in Fountain, FL that Fr. Brown
   serves. We would love for you to visit if you are
 front_last_button_text: View Mass Schedule
-front_last_button_url: /schedule-and-directions/
+front_last_button_url: ''
 ---
 
