@@ -31,7 +31,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Welcome Message Heading, name: welcome_message_heading, widget: string}
           - {label: Welcome Message, name: welcome_message, widget: text}
           - {label: Welcome Message Button Text, name: welcome_message_button_text, widget: string}
-          - {label: Welcome Message Button Link, name: welcome_message_button_URL, widget: string}
+          - {label: Welcome Message Button Link, name: welcome_message_button_URL, widget: string, required: false}
           - label: "Front Boxes"
             name: "front_boxes"
             widget: list
