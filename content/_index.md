@@ -18,24 +18,21 @@ welcome_message_button_URL: 'https://goo.gl/maps/94Ch96w6S6M2'
 front_boxes:
   - heading: Sacraments
     icon: fa fa-bell-o
+    icon_class: bg-primary
     url: /schedule-and-directions
   - heading: Bulletin
     icon: fa fa-newspaper-o
-    icon_class: bg-primary
+    icon_class: bg-secondary
     url: /img/tedx-ticket.pdf
   - heading: Give
     icon: fa fa-handshake-o
-    icon_class: bg-secondary
+    icon_class: bg-accent
     url: >-
       https://www.eservicepayments.com/cgi-bin/Vanco_ver3.vps?appver3=Fi1giPL8kwX_Oe1AO50jRpD4Ri1ipMz8SjtO-fInVtuhjXsUKRLlmI4vCU4-rZZZ2EvVVAEjqawDomKT1pbouYCLiHsYNviTLNfVAvw7pMg=&ver=3
   - heading: Register
     icon: fa fa-user-plus
-    icon_class: bg-accent
-    url: 'https://google.com'
-  - heading: Photo
-    icon: fa fa-camera
     icon_class: bg-tertiary
-    url: '#'
+    url: 'https://google.com'
 front_more_img: img/parish-hall.jpg
 front_more_heading: PARISH HALL RENTAL
 front_more_text: >-
