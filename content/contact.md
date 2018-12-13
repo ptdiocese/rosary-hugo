@@ -14,7 +14,7 @@ staff_subtext: >-
   Yay
 staff:
   - contact: frjohn@gmail.com
-    img: /img/person-1.jpg
+    img: /img/home.jpg
     name: Fr. John
     title: Pastor
   - contact: frjohn@gmail.com
