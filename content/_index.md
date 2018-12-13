@@ -21,7 +21,7 @@ front_boxes:
     url: /schedule-and-directions
   - heading: Bulletin
     icon: fa fa-newspaper-o
-    url: /bulletin
+    url: /img/tedx-ticket.pdf
   - heading: Give
     icon: fa fa-handshake-o
     url: >-
