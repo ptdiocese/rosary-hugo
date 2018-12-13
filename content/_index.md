@@ -21,16 +21,20 @@ front_boxes:
     url: /schedule-and-directions
   - heading: Bulletin
     icon: fa fa-newspaper-o
+    icon_class: bg-primary
     url: /img/tedx-ticket.pdf
   - heading: Give
     icon: fa fa-handshake-o
+    icon_class: bg-secondary
     url: >-
       https://www.eservicepayments.com/cgi-bin/Vanco_ver3.vps?appver3=Fi1giPL8kwX_Oe1AO50jRpD4Ri1ipMz8SjtO-fInVtuhjXsUKRLlmI4vCU4-rZZZ2EvVVAEjqawDomKT1pbouYCLiHsYNviTLNfVAvw7pMg=&ver=3
   - heading: Register
     icon: fa fa-user-plus
+    icon_class: bg-accent
     url: 'https://google.com'
   - heading: Photo
     icon: fa fa-camera
+    icon_class: bg-tertiary
     url: '#'
 front_more_img: img/parish-hall.jpg
 front_more_heading: PARISH HALL RENTAL
@@ -48,4 +52,3 @@ front_last_text: >-
 front_last_button_text: View Mass Schedule
 front_last_button_url: /schedule-and-directions/
 ---
-
