@@ -1,6 +1,7 @@
 ---
 title: Contact Us
 heading: Contact Us
+layout: "contact"
 top_content_heading: WE ARE HERE TO HELP YOU
 top_content: >-
   Insert some intro text to the user explaining how you you are here to help and
@@ -23,4 +24,3 @@ staff:
     name: Fr. John
     title: Pastor
 ---
-
