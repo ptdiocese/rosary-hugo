@@ -55,6 +55,7 @@ collections: # A list of collections the CMS should be able to edit
         label: "Contact Us"
         name: "contact"
         fields:
+          - {label: Layout Hidden, name: layout, widget: hidden, default: "contact"}
           - {label: Contact Us, name: title, widget: string}
           - {label: Heading, name: heading, widget: string}
           - {label: Top Content Heading, name: top_content_heading, widget: string}
