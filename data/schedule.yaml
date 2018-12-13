@@ -1,9 +1,7 @@
 mass_times:
-  - day: Saturday
-    time: 4 p.m. CT
-  - day: Sunday
-    time: '8:30 a.m. CT'
-  - day: Monday - Thursday
-    time: '8:30 a.m. CT'
-  - day: Friday
-    time: '4:00am'
+  - day: Sunday Mass
+    time: '10:30am and 12:00 noon'
+  - day: Confession
+    time: 'Saturday 3:30'
+  - day: Wednesday Bible Study
+    time: '6:00pm'
