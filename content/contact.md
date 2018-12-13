@@ -1,6 +1,5 @@
 ---
 title: Contact Us
-layout: "contact"
 heading: Contact Us
 top_content_heading: WE ARE HERE TO HELP YOU
 top_content: >-
@@ -9,7 +8,10 @@ top_content: >-
 staff_heading: Our Staff
 staff_subtext: >-
   Insert some intro text to the user about who your staff is and how you work
-  together to serve the parish.
+  together to serve the parish. Here anna
+
+
+  Yay
 staff:
   - contact: frjohn@gmail.com
     img: /img/person-1.jpg
@@ -28,3 +30,4 @@ staff:
     name: Fr. John
     title: Pastor
 ---
+
