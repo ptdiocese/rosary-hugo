@@ -76,12 +76,12 @@ collections: # A list of collections the CMS should be able to edit
     label: "Schedule"
     files:
       - file: "data/schedule.yaml"
-        label: "Mass Times"
-        name: "mass_times"
+        label: "Schedule"
+        name: "times"
         create: true
         fields:
-          - label: "Mass Times"
-            name: "mass_times"
+          - label: "Schedule"
+            name: "times"
             create: true
             widget: list
             fields:
