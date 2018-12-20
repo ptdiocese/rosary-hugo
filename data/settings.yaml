@@ -14,7 +14,7 @@ site_footer_img: img/olr-footer.png
 site_topbar_enable: true
 site_latitude: 30.246317
 site_longitude: -85.564166
-site_direction: https://goo.gl/maps/94Ch96w6S6M2
+site_direction: "Our Lady of the Rosary, Panama City, FL, 32404"
 menu:
   topbar:
     - name: Facebook
