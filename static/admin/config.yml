@@ -80,7 +80,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "times"
         create: true
         fields:
-          - label: "Schedule"
+          - label: "Mass, Confession, Event, etc"
             name: "times"
             create: true
             widget: list
