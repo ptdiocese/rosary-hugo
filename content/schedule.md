@@ -1,5 +1,5 @@
 ---
-title: "schedule and directions"
+title: "Schedule"
 layout: "schedule"
 heading: schedule
 ---
