@@ -19,7 +19,7 @@ front_boxes:
   - heading: Sacraments
     icon: fa fa-bell-o
     icon_class: bg-primary color-white
-    url: /schedule-and-directions
+    url: /schedule
   - heading: Bulletin
     icon: fa fa-newspaper-o
     icon_class: bg-secondary
@@ -47,5 +47,5 @@ front_last_text: >-
   Our Lady Queen of Peace is a strong community in Fountain, FL that Fr. Brown
   serves. We would love for you to visit if you are
 front_last_button_text: View Mass Schedule
-front_last_button_url: /schedule-and-directions/
+front_last_button_url: /schedule/
 ---
