@@ -38,7 +38,7 @@
                       <div class="row">
                           <div id="checkout" class="col-lg-9">
                               <div class="box border-bottom-0 border-0 pt-2 mb-0">
-                                  <ul id="pills-tab" role="tablist" class="nav nav-pills nav-fill">
+                                  <!--<ul id="pills-tab" role="tablist" class="nav nav-pills nav-fill">
                                       <li class="nav-item">
                                           <a id="pills-mass-tab" data-toggle="pill" href="#pills-mass" role="tab" aria-controls="pills-home" aria-selected="true" class="nav-link"><i class="fa fa-bell-o"></i><br>Mass</a>
                                       </li>
@@ -48,7 +48,7 @@
                                       <li class="nav-item">
                                           <a id="pills-adoration-tab" data-toggle="pill" href="#pills-adoration" role="tab" aria-controls="pills-profile" aria-selected="false" class="nav-link"><i class="fa fa-child"></i><br>Adoration</a>
                                       </li>
-                                  </ul>
+                                  </ul>-->
                                   <div id="pills-tabContent" class="tab-content">
                                       <div id="pills-mass" role="tabpanel" aria-labelledby="pills-home-tab" class="tab-pane fade show active">
                                         {{ range $index, $element := .Site.Data.schedule.mass_times }}
@@ -57,7 +57,7 @@
                                         {{ end }}
                                           <p>Please check bulletin for changes to daily mass times</p>
                                       </div>
-                                      <div id="pills-confession" role="tabpanel" aria-labelledby="pills-profile-tab" class="tab-pane fade">
+                                  <!--  <div id="pills-confession" role="tabpanel" aria-labelledby="pills-profile-tab" class="tab-pane fade">
                                         {{ range $index, $element := .Site.Data.schedule.confession }}
                                           <h3>{{ .day }}</h3>
                                           <p class="lead">{{ .time }}</p>
@@ -69,7 +69,7 @@
                                           <h3>{{ .day }}</h3>
                                           <p class="lead">{{ .time }}</p>
                                         {{ end }}
-                                      </div>
+                                      </div>-->
                                   </div>
                               </div>
                           </div>
