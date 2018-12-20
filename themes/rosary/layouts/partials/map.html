@@ -4,11 +4,11 @@
         <input id="gmap-lat" value="{{ .Site.Data.settings.site_latitude }}" />
         <input id="gmap-lng" value="{{ .Site.Data.settings.longitude }}" />
         <input id="gmap-marker" value="{{ .Site.BaseURL }}img/marker.png" />
-       {{ if .Site.Data.settings.site_direction }}
+       <!--{{ if .Site.Data.settings.site_direction }}-->
           <input id="gmap-dir" value="{{ .Site.Data.settings.site_direction }}" />
-        {{ else }}
+        <!--{{ else }}
           <input id="gmap-dir" value="{{ .Site.Data.settings.site_latitude }},{{ .Site.Data.settings.site_longitude }}" />
-        {{ end }}
+        {{ end }}-->
       </div>
       <div id="map" />
   {{ end }}
