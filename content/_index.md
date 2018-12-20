@@ -16,22 +16,18 @@ welcome_message: >-
 welcome_message_button_text: Get Directions
 welcome_message_button_URL: 'https://goo.gl/maps/94Ch96w6S6M2'
 front_boxes:
-  - heading: Sacraments
+  - heading: Schedule
     icon: fa fa-bell-o
-    icon_class: bg-primary color-white
     url: /schedule
   - heading: Bulletin
     icon: fa fa-newspaper-o
-    icon_class: bg-secondary
     url: /img/tedx-ticket.pdf
   - heading: Give
     icon: fa fa-handshake-o
-    icon_class: bg-accent
     url: >-
       https://www.eservicepayments.com/cgi-bin/Vanco_ver3.vps?appver3=Fi1giPL8kwX_Oe1AO50jRpD4Ri1ipMz8SjtO-fInVtuhjXsUKRLlmI4vCU4-rZZZ2EvVVAEjqawDomKT1pbouYCLiHsYNviTLNfVAvw7pMg=&ver=3
   - heading: Register
     icon: fa fa-user-plus
-    icon_class: bg-tertiary color-white
     url: 'https://google.com'
 front_more_img: img/parish-hall.jpg
 front_more_heading: PARISH HALL RENTAL
@@ -49,3 +45,4 @@ front_last_text: >-
 front_last_button_text: View Mass Schedule
 front_last_button_url: /schedule/
 ---
+
