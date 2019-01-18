@@ -4,7 +4,7 @@ jumbotron_bg_img: img/holyrosary.jpg
 jumbotron_logo_img: /img/olr-logo.png
 alert: true
 alert_announcement: Important announcement
-welcome_message_heading: WELCOME TO OUR PARISH
+welcome_message_heading: Welcome to Our Parish
 welcome_message: >-
   We, the parish community of Our Lady of the Rosary Catholic Church in Panama
   City, Florida, seek to improve our efforts to reach out to all of God`s
@@ -14,7 +14,7 @@ welcome_message: >-
 
   We would love for you to join us for Mass this weekend.
 welcome_message_button_text: Get Directions
-welcome_message_button_URL: https://goo.gl/maps/94Ch96w6S6M2
+welcome_message_button_URL: 'https://goo.gl/maps/94Ch96w6S6M2'
 front_boxes:
   - heading: Schedule
     icon: fa fa-bell-o
@@ -45,3 +45,4 @@ front_last_text: >-
 front_last_button_text: View Mass Schedule
 front_last_button_url: /schedule/
 ---
+
