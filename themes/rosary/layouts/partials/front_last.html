@@ -1,3 +1,4 @@
+{{ with $.Params.front_last_visible }}
 <section style="background: url({{ .Params.front_last_bg_img}}) center top no-repeat;
 background-size: cover;
 background-position: 50% 35%;" class="no-mb color-white text-center box-image no-mt" data-pg-name="Section">
@@ -12,3 +13,4 @@ background-position: 50% 35%;" class="no-mb color-white text-center box-image no
         </div>
     </div>
 </section>
+{{ end }}
