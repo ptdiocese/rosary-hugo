@@ -2,7 +2,7 @@
 title: Home
 jumbotron_bg_img: img/holyrosary.jpg
 jumbotron_logo_img: /img/olr-logo.png
-alert: true
+alert: false
 alert_announcement: Important announcement
 welcome_message_heading: Welcome to Our Parish
 welcome_message: >-
