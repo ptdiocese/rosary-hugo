@@ -9,7 +9,7 @@ defaultContentLanguage = "en"
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
-
+publish_mode = "editorial_workflow"
 # Define the number of posts per page
 paginate = 10
 
