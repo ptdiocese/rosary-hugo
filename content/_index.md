@@ -2,9 +2,9 @@
 title: Home
 jumbotron_bg_img: img/holyrosary.jpg
 jumbotron_logo_img: /img/olr-logo.png
-alert: false
+alert: true
 alert_announcement: Important announcement
-welcome_message_heading: Welcome to Our Parish
+welcome_message_heading: WELCOME TO OUR PARISH
 welcome_message: >-
   We, the parish community of Our Lady of the Rosary Catholic Church in Panama
   City, Florida, seek to improve our efforts to reach out to all of God`s
@@ -14,7 +14,7 @@ welcome_message: >-
 
   We would love for you to join us for Mass this weekend.
 welcome_message_button_text: Get Directions
-welcome_message_button_URL: 'https://goo.gl/maps/94Ch96w6S6M2'
+welcome_message_button_URL: https://goo.gl/maps/94Ch96w6S6M2
 front_boxes:
   - heading: Schedule
     icon: fa fa-bell-o
@@ -29,7 +29,6 @@ front_boxes:
   - heading: Register
     icon: fa fa-user-plus
     url: 'https://google.com'
-front_more_visible: true
 front_more_img: img/parish-hall.jpg
 front_more_heading: PARISH HALL RENTAL
 front_more_text: >-
@@ -37,7 +36,6 @@ front_more_text: >-
   parishes????
 front_more_button_text: Hall Rental Form
 front_more_button_url: /docs/RENTAL-form.pdf
-front_last_visible: true
 front_last_bg_img: img/ol-heaven.jpeg
 front_last_heading: ANOTHER HEADER
 front_last_text_lead: 'Learn about our Mission Parish in Fountain, FL'
@@ -47,4 +45,3 @@ front_last_text: >-
 front_last_button_text: View Mass Schedule
 front_last_button_url: /schedule/
 ---
-
