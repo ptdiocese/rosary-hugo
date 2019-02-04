@@ -42,17 +42,17 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Icon, name: icon, widget: string}
               - {label: Open in new window?, name: window, widget: boolean, default: false}
           - {label: Front More Visible?, name: front_more_visible, widget: boolean, default: true}
-          - {label: Front Section 2 Image, name: front_more_img, widget: image}
-          - {label: Front Section 2 Heading, name: front_more_heading, widget: string}
-          - {label: Front Section 2 Text, name: front_more_text, widget: string}
-          - {label: Front Section 2 Button Text, name: front_more_button_text, widget: string}
-          - {label: Front Section 2 Button Link, name: front_more_button_url, widget: string}
-          - {label: Front Last Visible?, name: front_last_visible, widget: boolean, default: true}
-          - {label: Front Last Background Image, name: front_last_bg_img, widget: image}
-          - {label: Front Last Heading, name: front_last_heading, widget: string}
-          - {label: Front Last Text Lead, name: front_last_text_lead, widget: string}
-          - {label: Front Last Text, name: front_last_text, widget: string}
-          - {label: Front Last Button Text, name: front_last_button_text, widget: string}
+          - {label: Front Section 2 Image, name: front_more_img, widget: image, required: false}
+          - {label: Front Section 2 Heading, name: front_more_heading, widget: string, required: false}
+          - {label: Front Section 2 Text, name: front_more_text, widget: string, required: false}
+          - {label: Front Section 2 Button Text, name: front_more_button_text, widget: string, required: false}
+          - {label: Front Section 2 Button Link, name: front_more_button_url, widget: string, required: false}
+          - {label: Front Last Visible?, name: front_last_visible, widget: boolean, default: true, required: false}
+          - {label: Front Last Background Image, name: front_last_bg_img, widget: image, required: false}
+          - {label: Front Last Heading, name: front_last_heading, widget: string, required: false}
+          - {label: Front Last Text Lead, name: front_last_text_lead, widget: string, required: false}
+          - {label: Front Last Text, name: front_last_text, widget: string, required: false}
+          - {label: Front Last Button Text, name: front_last_button_text, widget: string, required: false}
           - {label: Front Last Button Link, name: front_last_button_url, widget: string, required: false}
       - file: "content/contact.md"
         label: "Contact Us"
