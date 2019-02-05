@@ -119,6 +119,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Email, name: site_email, widget: string}
           - {label: ChurchDB URL, name: site_churchDBURL, widget: string}
           - {label: eGiving URL, name: site_eGiving, widget: string}
+          - {label: Site Navigation Image, name: site_navbar_img, widget: image}
           - {label: Site Footer Image, name: site_footer_img, widget: image}
           - {label: Enable Topbar?, name: site_topbar_enable, widget: boolean, default: true}
           - label: "menus"
