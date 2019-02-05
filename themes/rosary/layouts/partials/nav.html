@@ -2,7 +2,7 @@
 <div id="navbar" role="navigation" class="navbar navbar-expand-lg">
     <div class="container">
         <a href="index.html" class="navbar-brand home">
-          {{ if ne .Site.data.settings.site_navbar_img }}
+          {{ if ne .Site.data.settings.site_navbar_img "" }}
             <img alt="Our Lady of the Rosary Logo" class="d-inline-block d-md-none" src="/img/logo-nav.png"/>
             <span class="sr-only">Our Lady of the Rosary Catholic Church - go to homepage</span>
           {{ else }}
